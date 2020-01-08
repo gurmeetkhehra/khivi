@@ -1,0 +1,1 @@
+web: gunicorn khivi_project.wsgi --log-file -
